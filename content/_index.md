@@ -1,10 +1,11 @@
 ---
-title: "Emily Cooper"
-subtitle: "Social media strategy @ Savoir"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
-date: 2019-02-18T12:27:33-06:00
+title: "Mengchen Su"
+subtitle: "
+I am still progressing in my life. Focus on what matters to all children, whole children."
+description: "I am a Research Associate at the University of Minnesota's College of Education and Human Development, where I work with CAREI. My work focuses on improving K-12 school effectiveness for whole child development, with a particular emphasis on equity. I aim to test and scale a family-school-neighborhood model that promotes children's balanced development through quantitative research"
+date: 2023-02-17
 images:
-  - img/revoir.jpg
+  - img/first page.webp
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
