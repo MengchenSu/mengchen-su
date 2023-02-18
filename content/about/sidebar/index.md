@@ -6,7 +6,7 @@ avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 link_list_label: "" # bookmarks, elsewhere, etc.
 link_list:
-- name: CAREI
+- name: Center For Applied Research and Educational Improvement(CAREI)
   url: https://carei.umn.edu/
 ---
 
