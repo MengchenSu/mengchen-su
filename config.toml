@@ -94,19 +94,19 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
+    name = "CV & Projects"
+    title = "CV & Projects"
+    url = "/cv & projects/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    name = "Publications"
+    title = "Publications"
+    url = "/publications/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "Furry friends"
+    title = "Furry friends"
+    url = "/furry friends/"
     weight = 4
     
   # Configure footer  
