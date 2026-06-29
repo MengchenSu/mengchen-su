@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://spiffy-caramel-38d260.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Personal website of Mengchen Su"
@@ -30,9 +30,9 @@ enableEmoji = true
 [params]
   orgName = "Mengchen Su"
   #orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "Research, projects, publications, and selected personal notes from Mengchen Su."
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/favicon.ico"
   mainSections = [ ]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  #twitter = "apreshill"
+  #twitter = ""
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -90,23 +90,23 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About Mengchen Su"
     url = "/about/"
     weight = 1
   [[menu.header]]
     name = "CV & Projects"
     title = "CV & Projects"
-    url = "/cv & projects/"
+    url = "/project/"
     weight = 2
   [[menu.header]]
     name = "Publications"
     title = "Publications"
-    url = "/publications/"
+    url = "/talk/"
     weight = 3
   [[menu.header]]
     name = "Furry friends"
     title = "Furry friends"
-    url = "/furry friends/"
+    url = "/furry-friends/"
     weight = 4
     
   # Configure footer  
