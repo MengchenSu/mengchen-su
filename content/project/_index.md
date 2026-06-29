@@ -1,7 +1,7 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
-author: "The R Markdown Team @RStudio"
+title: CV & Projects
+description: "A placeholder structure for Mengchen Su's CV and selected projects."
+author: "Mengchen Su"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
@@ -10,14 +10,15 @@ layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Projects
+  title: CV
   description: |
-    Projects can be anything!
-    Check out the _index.md file in the /project folder 
-    to edit this content.
-  author: "The R Markdown Team @RStudio"
-  text_link_label: ""
-  text_link_url: ""
+    <!-- TODO(owner): add CV PDF -->
+    > **[PLACEHOLDER — owner to fill]**
+
+    Add the current CV PDF to `static/cv/` and link it from this section.
+  author: "Mengchen Su"
+  text_link_label: "CV PDF placeholder"
+  text_link_url: "/cv/"
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all individual pages inside project/
@@ -32,4 +33,8 @@ cascade:
     show_sidebar_adunit: false # show ad container
 ---
 
-** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
+<!-- TODO(owner): fill in CV and project overview -->
+
+> **[PLACEHOLDER — owner to fill]**
+
+This page is ready for Mengchen's CV and selected project descriptions. Replace the placeholder project entries with real project titles, summaries, dates, links, and materials when available.

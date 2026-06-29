@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: |
-  A Hugo theme made for R Markdown users.
+  About Mengchen Su's research interests, background, and selected personal interests.
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.
